@@ -1,7 +1,7 @@
 # DeepLearning_Study [20210414 ~ ]
  
  1. Introduction
- 2. Preliminaries
+ 2. Preliminaries<br>
     2.1 Data Manipulation<br>
     2.2 Data Preprocessing<br>
     2.3 Linear Algebra<br>
