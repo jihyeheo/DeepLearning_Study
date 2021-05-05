@@ -12,7 +12,7 @@
     3.1 Linear Regression<br>
     3.2 Linear Regression Implementation from Scratch<br>
     3.3 Concise Implementation of Linear Regression<br>
-    ### <span style="color:blue">[20210505] : 3.4~3.7<br></span>
+    ### <span style="color:yellow"> [20210505] : 3.4~3.7 </span>
     3.4 Softmax Regression<br>
     3.5 The Image Classification Dataset<br>
     3.6 Implementation of Softmax Regression from Scratch<br>
